@@ -1,4 +1,4 @@
-package com.pratice.microservice.config;
+package com.demo.config;
 
 import com.rabbitmq.client.AMQP;
 import org.springframework.amqp.core.*;

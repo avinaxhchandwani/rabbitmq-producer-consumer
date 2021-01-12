@@ -1,6 +1,6 @@
-package com.pratice.microservice.service.impl;
+package com.demo.service.impl;
 
-import com.pratice.microservice.service.MessageConsumer;
+import com.demo.service.MessageConsumer;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 
 public class MessageConsumerTwo implements MessageConsumer {

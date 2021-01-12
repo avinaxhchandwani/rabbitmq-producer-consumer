@@ -1,4 +1,4 @@
-package com.pratice.microservice.service;
+package com.demo.service;
 
 public interface MessageConsumer{
     public void consume(String message);

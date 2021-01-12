@@ -1,6 +1,6 @@
-package com.pratice.microservice.controller;
+package com.demo.controller;
 
-import com.pratice.microservice.service.MessageProducer;
+import com.demo.service.MessageProducer;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

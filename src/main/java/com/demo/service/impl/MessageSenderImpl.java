@@ -1,6 +1,6 @@
-package com.pratice.microservice.service.impl;
+package com.demo.service.impl;
 
-import com.pratice.microservice.service.MessageProducer;
+import com.demo.service.MessageProducer;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
