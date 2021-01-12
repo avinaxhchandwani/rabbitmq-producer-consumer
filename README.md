@@ -21,7 +21,7 @@ you can execute the application using maven springboot run command:
 mvn spring-boot:run
 ```
 
-##Detailed Description
+## Detailed Description
 ```shell
 spring.rabbitmq.host=localhost
 spring.rabbitmq.port=5672
